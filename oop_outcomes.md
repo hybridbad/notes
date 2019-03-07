@@ -38,7 +38,7 @@ end
 - Why is inheritance really useful?
 - How do you extend a class? What does that mean?
 - What does #super do? Why use it?
-- Scope:
+## Scope:
 - What is scope?
 - When can you start using a variable?
 - When is a new scope defined?
